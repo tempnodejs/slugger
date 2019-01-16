@@ -1,0 +1,19 @@
+{
+  "name": "@tempnodejs/slugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.jsnpm adduser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/consumer.draft.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ajar/marker": "^1.1.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
